@@ -222,7 +222,7 @@ Note: if you use non-SDK provided CMake, you will need to download `ninja` from 
 ### Linux (VSCode)
 
 1. Run `pwsh ./setup.ps1`.
-2. Open axmol source folder with VSCode.
+2. Opegit stan axmol source folder with VSCode.
 3. Install C++, CMake extensions for VSCode.
 4. VSCode will auto prompt you to choose the toolset for building. Select the gcc matching with your system installed default gcc:
     ```sh
