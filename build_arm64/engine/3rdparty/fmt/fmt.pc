@@ -1,0 +1,11 @@
+prefix=/Users/lpusok/Develop/xsample/axmol/axmol/install_arm64
+exec_prefix=/Users/lpusok/Develop/xsample/axmol/axmol/install_arm64
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: fmt
+Description: A modern formatting library
+Version: 11.0.0
+Libs: -L${libdir} -lfmt
+Cflags: -I${includedir}
+

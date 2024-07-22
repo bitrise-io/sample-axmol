@@ -110,7 +110,7 @@ CMakeSettings.json
 
 # ignore all build
 /build
-/build_*
+# /build_*
 
 # ignore ninja build dir
 /out

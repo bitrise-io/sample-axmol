@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/tmp/axmol/axmol/build_ios_arm64/CMakeFiles/3.30.0/CompilerIdOBJCXX/CompilerIdOBJCXX.xctest/CompilerIdOBJCXX'
+relocations:
+  - { offsetInCU: 0x27, offset: 0x27, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x54, offset: 0x54, size: 0x8, addend: 0x0, symName: _info_compiler, symObjAddr: 0x100, symBinAddr: 0xC000, symSize: 0x0 }
+  - { offsetInCU: 0x6F, offset: 0x6F, size: 0x8, addend: 0x0, symName: _info_platform, symObjAddr: 0x108, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _info_arch, symObjAddr: 0x110, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9B, offset: 0x9B, size: 0x8, addend: 0x0, symName: _info_language_standard_default, symObjAddr: 0x118, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xB1, offset: 0xB1, size: 0x8, addend: 0x0, symName: _info_language_extensions_default, symObjAddr: 0x120, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xBA, offset: 0xBA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+...
